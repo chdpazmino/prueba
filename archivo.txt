@@ -4,3 +4,4 @@ que lindo
 primero preparo con git add 
 
 COMMIT - M 
+es la prueba 2
