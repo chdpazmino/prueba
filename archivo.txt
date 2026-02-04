@@ -1,3 +1,10 @@
+Este es el archivo de mi rama diego prueba 
+ESTA ES LA ULTIMA PRUEBA DE ESTA 
+COPIADO
+que lindo 
+primero preparo con git add 
+
+Este es el archivo de mi rama diego prueba 
 ESTA ES LA ULTIMA PRUEBA DE ESTA 
 COPIADO
 que lindo 
